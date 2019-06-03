@@ -1,5 +1,5 @@
 {
-  "name": "umeng-analytics-sdk",
+  "name": "cordova-plugin-umeng",
   "version": "3.0.0",
   "description": "umeng sdk Plugin",
   "prepare_queue": {
